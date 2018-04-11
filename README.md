@@ -16,7 +16,7 @@ Per Windows:
 5. Nel riquadro di Core Packages clicca "settings"
 6. Nella nuova schermata metti la spunta in Settings su "Enabled" ![3.Autosave](/Screen/Windows/3_Autosave.png)
 
-##Impostare autosave su Atom (MacOS)
+## Impostare autosave su Atom (MacOS)
 
 Per MacOS:
 1. Atom ![1.File](/Screen/MacOS/1_Settings.png)
